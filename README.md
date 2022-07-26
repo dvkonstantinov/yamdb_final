@@ -54,4 +54,7 @@ sudo docker-compose up -d
 
 Конец.
 
-[workflow](https://github.com/dvkonstantinov/yamdb_final/actions/workflows/yamdb_workflow/badge.svg)
+## Автор
+dvkonstantinov
+
+![workflow](https://github.com/dvkonstantinov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
