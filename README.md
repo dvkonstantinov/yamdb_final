@@ -48,11 +48,10 @@ sudo docker-compose up -d
 Главная страница сайта недоступна, поскольку проект нацелен исключительно 
 на взаимодейтсвие по API
 
-##Пример работающего сайта:
+## Пример работающего сайта:
 Главная страница - http://test3.dvkonstantinov.ru/
 Страница админки - http://test3.dvkonstantinov.ru/admin/
 
 Конец.
 
-![example workflow](https://github.
-com/dvkonstantinov/yamdb_final/actions/workflows/yamdb_workflow/badge.svg)
+![example workflow](https://github.com/dvkonstantinov/yamdb_final/actions/workflows/yamdb_workflow/badge.svg)
